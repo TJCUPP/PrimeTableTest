@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\bin\Debug\PrimeNumberTable.exe.config
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\bin\Debug\PrimeNumberTable.exe
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\bin\Debug\PrimeNumberTable.pdb
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\obj\Debug\PrimeNumberTable.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\obj\Debug\PrimeNumberTable.exe
+C:\Users\User\Desktop\VS\PrimeNumberTable\PrimeNumberTable\obj\Debug\PrimeNumberTable.pdb
